@@ -1,0 +1,5 @@
+train : C:\Users\LENOVO\Desktop\Web_App\TestAPP\dataset\valid\images
+val : C:\Users\LENOVO\Desktop\Web_App\TestAPP\dataset\valid\images
+
+nc: 16
+names: ['Id_Front','Id_Back','a','b','c','d','e','f','g','h','i','j','k','l','m','n']
